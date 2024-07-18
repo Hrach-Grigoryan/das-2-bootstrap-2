@@ -1,0 +1,133 @@
+/* body{
+    background-color: black;
+}
+.form1{
+    background-color: white;
+    padding: 55px;
+    padding-bottom: 185px;
+}
+.form2{
+    background-color: rgb(1, 23, 170);
+    padding: 50px;
+}
+.col-md-5{
+    padding: 0 !important;
+}
+.row{
+    margin: 12px 0 !important;
+}
+.form1 .form-select,.form-control{
+    border: 0 !important;
+    border-bottom: 1px solid rgb( 133, 123, 123) !important;
+    border-radius: 0 !important;
+}
+
+.form2 .form-select{
+    border: 0 !important;
+    border-bottom: 1px solid rgb( 133, 123, 123) !important;
+    border-radius: 0 !important;
+}
+.form2 .form-control{
+    border: 0 !important;
+    border-bottom: 1px solid rgb( 133, 123, 123) !important;
+    border-radius: 0 !important;
+}
+.form2 input{
+    background-color: transparent;
+}
+.form2 select{
+    color: wheat;
+    background-color: transparent;
+}
+
+.form2 input::placeholder{
+    color: white !important;
+}
+.form2 .form-control:focus{
+    background-color: transparent !important;
+    border-color: transparent !important;
+    outline: 0 !important;
+    box-shadow: 0 0 0 0 transparent !important;
+}
+.btn1{
+    background-color: white !important;
+    border-radius: 30px !important;
+} */
+
+body{
+    background-color: black;
+}
+
+.form1{
+    background-color: white;
+    padding: 55px;
+    padding-bottom: 185px;
+    height: 590px;
+}
+.col-md-5{
+    padding: 0 !important;
+}
+
+.form1 input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form1 input{
+    border: 0 !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0 !important;
+}
+.form1 .form-select,.form-control{
+    border: 0 !important;
+    border-bottom: 1px solid rgb( 133, 123, 123) !important;
+    border-radius: 0 !important;
+}
+
+.form1 .form-select,.form-control:focus{
+    box-shadow: 0 0 0 0 transparent !important;
+}
+
+
+
+
+.form2{
+    background-color:  rgb(1, 23, 170);
+    padding: 55px;
+    padding-bottom: 185px;
+    color: white;
+}
+
+.form2 input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.form2 input{
+    border: 0 !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0 !important;
+    background-color: transparent;
+}
+.form2 .form-select,.form-control{
+    border: 0 !important;
+    border-bottom: 1px solid rgb( 133, 123, 123) !important;
+    border-radius: 0 !important;
+    background-color: transparent;
+}
+
+.form2 .form-select,.form-control:focus{
+    box-shadow: 0 0 0 0 transparent !important;
+}
+  
+.form2 input::placeholder{
+    color: white !important;
+}
+.form2 select::placeholder{
+    color: white !important;
+}
+.btn1{
+    background-color: white !important;
+    border-radius: 30px !important;
+} 
